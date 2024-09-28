@@ -6,3 +6,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 <img src="SimpleBooster.png">
+
+A simple optimizer for Windows.
+
+## 💻 Pré-requisitos
