@@ -9,4 +9,7 @@
 
 A simple optimizer for Windows.
 
-## 💻 Pré-requisitos
+## 💻 Requirements
+- Windows 10 or 11
+- 64Bit System
+- have a PC (optional) xd
